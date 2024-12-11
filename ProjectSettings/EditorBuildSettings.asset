@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/China.unity
+    guid: a695e1d635e05e14c9a359d1a5518383
+  - enabled: 0
+    path: Assets/Scenes/World.unity
+    guid: 070d764b9fe6425479f76daa8085c5d6
+  - enabled: 0
+    path: Assets/Scenes/Land.unity
+    guid: 9ca3493a8f190ba4b9df32c7c98deeb6
+  - enabled: 0
+    path: Assets/Scenes/Ocera.unity
+    guid: 52359dc9f4b05934ca4cde5d3f8bf497
+  - enabled: 0
+    path: "Assets/Scenes/\u5316\u77F3\u5BC6\u8BED.unity"
+    guid: 9bba13a337c257b4f89a1f031a522965
+  - enabled: 0
+    path: "Assets/Scenes/\u4E07\u7269\u66F4\u65B0.unity"
+    guid: 4947f5e15fa2950479c6beab7ed28bb3
+  - enabled: 0
+    path: Assets/Scenes/WallUp.unity
+    guid: b5d0e7b4ad219e0488b8b5e5ee1e3eee
+  - enabled: 0
+    path: Assets/Scenes/RFID.unity
+    guid: 017246888f5ebd940b9a24523b09f054
+  m_configObjects: {}
